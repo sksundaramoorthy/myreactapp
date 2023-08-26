@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Happy to Learn React
+          Happy to Learn React. 
+          Deployment from codepepipeline
         </a>
       </header>
     </div>
