@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Happy to Learn React. 
-          Deployment from codepepipeline
+          Deployment from codepepipeline/updated
         </a>
       </header>
     </div>
