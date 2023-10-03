@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.test
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -15,9 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Happy to Learn React.
-          <br>Deployment from codepepipeline/updated</br>
-          <br>Updated on 09/18</br>
+          Learn React<br></br>
+          Welcome to react App - Selva<br></br>
+          updated on 09/18
         </a>
       </header>
     </div>
